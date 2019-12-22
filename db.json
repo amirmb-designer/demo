@@ -13,10 +13,6 @@
     { "id": 1, "name": "product1", },
     { "id": 2, "name": "product2", }
   ],
-  "subproduct": [
-    { "id": 1, "name": "subproduct1", },
-    { "id": 2, "name": "subproduct2", }
-  ],
   "profile": {
     "name": "amirmb"
   }
