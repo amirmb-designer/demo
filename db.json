@@ -6,12 +6,16 @@
     { "id": 3, "name": "cat3" }
   ],
   "subcategory": [
-    { "id": 1, "name": "subcat1", },
-    { "id": 2, "name": "subcat2", }
+    { "id": 1, "name": "subcat1" },
+    { "id": 2, "name": "subcat2" }
   ],
   "product": [
-    { "id": 1, "name": "product1", },
-    { "id": 2, "name": "product2", }
+    { "id": 1, "name": "product1" },
+    { "id": 2, "name": "product2" }
+  ],
+  "subproduct": [
+    { "id": 1, "name": "subproduct1" },
+    { "id": 2, "name": "subproduct2" }
   ],
   "profile": {
     "name": "amirmb"
